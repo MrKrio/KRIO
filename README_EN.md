@@ -23,7 +23,7 @@ Most, if not all, of the scripts are written using AI, as I am better at writing
 
 If you don't know how to add programs to the `PATH` variable, here is a tutorial:
 
-[How to add a program to the PATH variable in Windows](https://remontka.pro/add-to-path-variable-windows/)
+[How to add a program to the PATH variable in Windows](https://www.windowsdigitals.com/add-folder-to-path-environment-variable-in-windows-11-10/)
 
 ## I hope you find my scripts useful!
 
