@@ -2,7 +2,7 @@
 
 Это мои Lua скрипты для Reaper, написанные, в первую очередь, для меня самого.
 
-[English version](README_en.md)
+[English version](README_EN.md)
 
 ## Зависимости
 
