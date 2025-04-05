@@ -7,9 +7,8 @@
 Некоторые скрипты имеют следующие зависимости:
 
 - [FFmpeg](https://ffmpeg.org/)
-- [FFprobe](https://ffmpeg.org/ffprobe.html)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- [faster-whisper-xxl](https://github.com/guillaumekln/faster-whisper)
+- [faster-whisper-xxl](https://github.com/Purfview/whisper-standalone-win)
 - [Python](https://www.python.org/)
 
 Перед использованием убедитесь, что они установлены и добавлены в переменную `PATH`.
